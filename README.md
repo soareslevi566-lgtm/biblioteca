@@ -23,9 +23,9 @@ O projeto segue uma arquitetura em camadas, padrão para APIs Spring Boot, separ
 
 ```
                          ┌──────────────────────────┐
-                         │        Cliente HTTP       │
-                         │  (Postman, front-end...)  │
-                         └────────────┬───────────────┘
+                         │        Cliente HTTP      │
+                         │  (Postman, front-end...) │
+                         └────────────┬─────────────
                                       │ JSON / REST
                                       ▼
                          ┌──────────────────────────┐
@@ -35,22 +35,22 @@ O projeto segue uma arquitetura em camadas, padrão para APIs Spring Boot, separ
                                       ▼
                          ┌──────────────────────────┐
                          │        Controllers         │
-                         │  (mapeamento de rotas, DTO) │
+                         │  (mapeamento de rotas, DTO)│
                          └────────────┬───────────────┘
                                       ▼
                          ┌──────────────────────────┐
-                         │          Services           │
-                         │   (regras de negócio)        │
+                         │          Services          │
+                         │   (regras de negócio)      │
                          └────────────┬───────────────┘
                                       ▼
                          ┌──────────────────────────┐
-                         │        Repositories          │
-                         │ (Spring Data JPA / JDBC)      │
+                         │        Repositories        │
+                         │ (Spring Data JPA / JDBC)   │
                          └────────────┬───────────────┘
                                       ▼
                          ┌──────────────────────────┐
-                         │      Banco de dados           │
-                         │   H2 (dev) · MySQL (prod)      │
+                         │      Banco de dados      │
+                         │   H2 (dev) · MySQL (prod)│
                          └──────────────────────────┘
 ```
 
