@@ -1,0 +1,24 @@
+### 1. Cadastrar um novo usuário
+POST http://localhost:8080/usuarios
+Content-Type: application/json
+
+{
+  "nome": "Carlos Silva",
+  "email": "carlos@email.com",
+  "telefone": "8899999999"
+}
+
+### Deletar livro pelo ID
+DELETE http://localhost:8080/livros/1
+
+### 2. Cadastrar um livro
+POST http://localhost:8080/livros
+Content-Type: application/json
+
+{
+  "autor": "Machado de Assis",
+  "titulo": "Memorias postumas"
+}
+
+
+

@@ -34,3 +34,4 @@ build/
 
 ### Propeties ###
 src/main/resources/application.properties
+src/main/test/testes.http
