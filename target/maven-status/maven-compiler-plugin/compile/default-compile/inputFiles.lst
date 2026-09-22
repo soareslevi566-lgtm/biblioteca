@@ -1,0 +1,13 @@
+C:\Users\soare\OneDrive\Desktop\book\src\main\java\com\api\book\BookApplication.java
+C:\Users\soare\OneDrive\Desktop\book\src\main\java\com\api\book\config\DataInitializer.java
+C:\Users\soare\OneDrive\Desktop\book\src\main\java\com\api\book\config\SecurityConfig.java
+C:\Users\soare\OneDrive\Desktop\book\src\main\java\com\api\book\controller\LivroController.java
+C:\Users\soare\OneDrive\Desktop\book\src\main\java\com\api\book\controller\UsuarioController.java
+C:\Users\soare\OneDrive\Desktop\book\src\main\java\com\api\book\controller\UsuarioRestController.java
+C:\Users\soare\OneDrive\Desktop\book\src\main\java\com\api\book\dto\UsuarioDto.java
+C:\Users\soare\OneDrive\Desktop\book\src\main\java\com\api\book\entity\LivroEntity.java
+C:\Users\soare\OneDrive\Desktop\book\src\main\java\com\api\book\entity\UsuarioEntity.java
+C:\Users\soare\OneDrive\Desktop\book\src\main\java\com\api\book\repository\LivroRepository.java
+C:\Users\soare\OneDrive\Desktop\book\src\main\java\com\api\book\repository\UsuarioRepository.java
+C:\Users\soare\OneDrive\Desktop\book\src\main\java\com\api\book\service\LivroService.java
+C:\Users\soare\OneDrive\Desktop\book\src\main\java\com\api\book\service\UsuarioService.java

@@ -1,0 +1,3 @@
+com\api\book\config\DataInitializer.class
+com\api\book\BookApplication.class
+com\api\book\config\SecurityConfig.class
